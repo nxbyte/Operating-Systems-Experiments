@@ -1,7 +1,7 @@
 # Operating Systems Experiments
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nextseto/Operating-Systems-Experiments/master/LICENSE)
 
-Repository containing source code for Operating Systems experiments using the UNIX (macOS and Linux) Operating Systems
+Repository containing source code for Operating Systems experiments using the UNIX-based (macOS and Linux) Operating Systems
 
 
 ## Setup
